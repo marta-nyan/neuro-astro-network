@@ -1,5 +1,5 @@
 
-# Neuro-astro network model
+# Neuro-astro network model!
 
 Here we propose a computational model of working memory (WM) implemented by the spiking neuron network (SNN) interacting with a network of astrocytes.
 
